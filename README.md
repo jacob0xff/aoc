@@ -1,5 +1,5 @@
 # Advent of Code
 
 ```
-/2025 - TBD
+/2025 - ⚡ Zig
 ```
